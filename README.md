@@ -8,7 +8,6 @@ where “class1” and “class2” are image classes.
 Files:
 dog-vs-cats.py – the model itself
 heatmap.jpg – heatmap sample
-model – model architecture and parameters
 
 Эта найросеть классифицирует фотографии собак и кошек (или любых других классов) из набора данных the Dogs vs. Cats  https://www.kaggle.com/c/dogs-vs-cats. Её точность около 96%. После обучения она может построить тепловую карту учатсков изображения, которые она считает важными при класификации.
 Изображение из набора данных должны быть помещены в следующую структуру папок:
@@ -20,4 +19,3 @@ model – model architecture and parameters
 Файлы:
 dog-vs-cats.py – сама модель
 heatmap.jpg – пример тепловой карты
-model – архитекрута и параметры модели
